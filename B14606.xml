@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Laniena Pasvvalcensis: that is, A tragicall relation of the plundring, butchering, ravishing of the vvemen and fyreing of the towne of Pasewalke in Pomerland, situated vpon the riuer called the Vcker, written by one which escaped out of that towne to his friend in Penkum, lying not farre from that place, dated the 12. of September 1630. VVherein is layd open to the vvorld, the most in humaine, and horrible insolences, yea the more then barbarous crueltie, and tirrannie committed in that towne by the Emperours officers, souldiers, and crabats, whereof the like was neuer read in any historie comparable to it. First translated out of high Dutch into Nether dutch according to the copie printed at Stralesound by Austin Ferberne, and now translated into English.</title>
+            <author>Loper, Christian.</author>
+         </titleStmt>
+         <extent>Approx. 29KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14606</idno><idno type="EEBO-CITATION">99854389</idno>
+  <idno type="VID">176334</idno>
+  <idno type="EEBO-PROQUEST">2264222966</idno>
+  <idno type="STC">STC 16804</idno>
+  <idno type="STC">ESTC S119182</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99854389e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14606)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176334)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1316:02, 1549:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Laniena Pasvvalcensis: that is, A tragicall relation of the plundring, butchering, ravishing of the vvemen and fyreing of the towne of Pasewalke in Pomerland, situated vpon the riuer called the Vcker, written by one which escaped out of that towne to his friend in Penkum, lying not farre from that place, dated the 12. of September 1630. VVherein is layd open to the vvorld, the most in humaine, and horrible insolences, yea the more then barbarous crueltie, and tirrannie committed in that towne by the Emperours officers, souldiers, and crabats, whereof the like was neuer read in any historie comparable to it. First translated out of high Dutch into Nether dutch according to the copie printed at Stralesound by Austin Ferberne, and now translated into English.</title>
+                  <author>Loper, Christian.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Holland?] :</pubPlace>
+                  <date>Imprinted, Anno 1631.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"One which escaped .. " = Christian Loper.</note>
+                  <note>Place of publication conjectured by from STC.</note>
+                  <note>Identified as STC 16803 on UMI microfilm reel 1549.</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>One Bodleian Library copy imperfect; title page torn at lower right corner, with loss of imprint date.</note>
+                  <note>Reproductions of the originals in the Cambridge University Library and the Bodleian Library.</note>
+                  <note>Appears at reel 1316 (Cambridge University Library copy), and at reel 1549 (Bodleian Library copy, identified as STC 16803; imperfect).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Thirty Years' War, 1618-1648 --  Early works to 1800.</term>
+               <term type="geographic_name">[Pasewalk (Germany)] --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176334:1"/>
+            <pb facs="tcp:176334:1"/>
+            <p>LANIENA PASVVALCENSIS: That is, A TRAGICALL RELATION OF THE PLVNDRING, Butchering, Ravishing of the VVemen, and Fyreing of the Towne of Pasewalke in Pomerland, situated vpon the riuer called the Veker, written by one which escaped out of that Towne to his Friend in Penkum, lving not farre from that place, dated the 12. of September 1630.</p>
+            <p>VVherein is layd open to the vvorld, the most in humaine, and horrible insolences, yea the more then Barbarous crueltie, and Tirrannie committed in that Towne by the Emperours officers, Souldiers, and Crabats, whereof the like was neuer read in any Historie comparable to it. First Translated out of high Dutch into Nether dutch accor<g ref="char:EOLhyphen"/>ding to the Copie printed at Stralesound by AVSTIN FERBERNE, and now Translated into English.</p>
+            <p>Caesarei perdunt Pasevvalcum, Caesatis vrbem crudelis facti GOTZIVS Autor. trat.</p>
+            <figure>
+               <figDesc>Woodcut printer's device showing a two-tailed mermaid blowing two horns, with a fringe of tassels below (McKerrow, 248).</figDesc>
+            </figure>
+            <p>Imprinted, ANNO 1631.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:176334:2"/>
+            <pb facs="tcp:176334:2"/>
+            <head>THE GRACE OF GOD, AND HIS HOLY SPIRIT COMFORT vs in all our afflictions.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Ingular, Benevolent, and most vvorthy Frend, Mr. Martine, I receiued your lamentable letter a fevve dayes since, vvhereby I vnderstood vvith a sorrovv full, and a Compassionate heart, in vvhat manner your li<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le tovvne, vvho alvvayes shevved their good affec<g ref="char:EOLhyphen"/>tion to the Imperiall Army vvas vsed, vvho although they strayned them selues aboue their abilities, yea more then vvas required, in giuing of Contribution, as money, corne, &amp; victuals, to supply their vvants: yet for al this their liuing, and vvritten Safegards vvere not regarded, giuen them by his Im<g ref="char:EOLhyphen"/>periall Maiesties Marshal <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orquato di Conti (termed by the vulgar the bad Count) vvho desiring a passage thorovv this Tovvne vpon the 19. of <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uly last past, for some Imperiall Dutch souldiers they fell vpon it, &amp; plundred it, brake open the Houses castle and church, vsing the inhab<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tants vvorse then Heathen, Turcks, or Tartarians could doe, beate them, rackt them, &amp; tortured them, to make them confesse vvhere their goods vvere layd, &amp; carried the chiefe of them avvaye vpon vvaggons. Tore the letters of Safegardship in peeces, ran vvith a greatfury into the castle: the church, the preachers &amp; other mens Houses, made boote of al they could finde in them: yea vvhich vvas more, and vnheard of, digge vp the very graues of the dead to ransack them for pillage, threesnt the corne halfe out, carried it avvaye vvith them and spoyled
+<pb facs="tcp:176334:3"/> the rest, vvounded, and marryred the poore people to death, and among the rest spared not your preacher vvho had shovvne the Imperials all respect, and friendship, yea much more then euer they deserued. And vvhich vvas vvorse, forced, and ravished publickly the vvemen, and maides, and vvhere some of them to keepe them from their villany hid themselues among bu<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rushes, they found them out, stript them, and droue them before them starke naked in an im<g ref="char:EOLhyphen"/>pudent manner. And vvhen <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he men sought to shelter, and defend their vviues, and daughters from this shamfull abuse, they most cruelly shot them thorovv, and hevvd them dovvne vvith their Cutlasses, that novve poore Penkum, vvith all her adioyning villages, is vvholly plundred and de<g ref="char:EOLhyphen"/>stroyed, so that they haue scarce a peece of bread to put into their mouthes, notvvithstanding that this poore Tovvne never shevved the least signe of disobedience against the Imperiall souldiers, but in stead of vvhat they had done for them, revvarded them vvith all manner of insolences, vil<g ref="char:EOLhyphen"/>laines, and enormities, vvhich they haue suffred, and endured patiently, from these in humai<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and mercilesse souldiers.</p>
+            <p>Novve S<seg rend="sup">r</seg>. I doe vvish vvith my heart, that I vvere in your House and dvvelling, that being moued vvith a Chri<g ref="char:EOLhyphen"/>stian zeale grounded vpon Gods vvord, I might administer comfort, and consolation to you in this your affliction. And seing all the vvorld knovves you suffer innocently, greeue no<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap> so much, at it (at if some euill thing befell you) faint not, but pluck vp a good heart, and be not discouraged, rest vpon the Eternall Councell, providence and permission of God, vvho though as a farther doth correct vs after many manners, for our manyfold sinns: yet at the length in his good time, he vvill not forget to cast his chastising Rod into the Fire. But forasmuch as I and my fellovve Burgesses of
+<pb facs="tcp:176334:3"/> Pasevvalke haue bin fellovve feelers of this horrible tyranny, committed by those vvho vniustly are called the Empe<g ref="char:EOLhyphen"/>rours souldiers, vvho haue vveakned all my povvers, and faculties all most to the very vttermost, and am not yet re<g ref="char:EOLhyphen"/>couuered. Though vvith Iobs friends I might sit dovvne vpon the Earth by him, and in beholding his sores, and mis<g ref="char:EOLhyphen"/>sery be silent, and not speake a vvord: yet vvhen I consider that it is a comfort to a man in his affliction, for to breake his minde, and to povver out his griefe into the bosome of a trusty friend, according vnto the Prouerbe FANDO EGERITVR DOLOR: That is, By speech a man easies himself of his sorrovv. Therefore seing Sir you haue giuen mee to vnderstand of your complaints, I vvill also bevvaile vnto you mine ovvne, and all those of the inhabi<g ref="char:EOLhyphen"/>tants of P<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sevvalck, by helping to binde vp their fret<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h blee<g ref="char:EOLhyphen"/>ding vvounds, if thereby they maye be prepared to a litle con<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>olidation and healing.</p>
+            <p>But S<seg rend="sup">r</seg>. I vvill put you in minde, that this miserable vn de<g ref="char:EOLhyphen"/>serued, land-destroying quartering in Pomer, being first consented vnto but for sixe vveekes, hath continued three yeeres, yea 26. times sixe vveekes, vvith an vnviterable, (and as long as the vvorld shal last extends it selfe to an irre<g ref="char:EOLhyphen"/>parable) hurt to Pomerland, our Pasevvalck being a place and Tovvne vvell situated, and reasonnable good trading in it, tooke in at the first also three Corners of Horse, and aftervvard follovved other grips and vultures, vvhich laye so heavely vpon them, that many times a Burgesse did paye ordi<g ref="char:EOLhyphen"/>narily for his part, 4. 5. 8. yea ten, or more Rixe dallers euery vveeke, and vvhen they had cast vp their accounts, gaue more then their lands, Houses, and goods vvere vvorth, and if they be yet liuing can neuer recouuer their losses againe. There<g ref="char:EOLhyphen"/>fore it hapned that in this our populous Tovvne, vvhich vvas
+<pb facs="tcp:176334:4"/> riche and had good meanes, in a short time vvas so consu<g ref="char:EOLhyphen"/>med and vvasted, that it vvas diuided into three quarters, vvhereof onely one of them vvas inhabited, and the other laye vast and ruyned. Finally, Pasevvalck must giue contri<g ref="char:EOLhyphen"/>bution, and had such a Commandour sent them, vvhich bare the name of one that professed the Gospel, but vvas in truth such an one, vvho led a vvorser lise then a pagan, vvithout any feare of God, in abhominable incest vvith tvvo sisters, vvith strange marryed vvemen, and vvith euery one, vvhich either by craft or violence he could attame vnto his vvil, and though he had a married vvife: notvvith standing he carried an other marryed vvoman vvith him vvhere he vvent, &amp; her child vvas knovvne to be his, neuer regarding that vvhich vvas right &amp; equitie, hauing before also shovvne an exsam<g ref="char:EOLhyphen"/>ple of his cruelty and Tirranny in the <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le of Rugen, vvhere he did not onely by violence plunder the Tovvne of Bergen<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and other places: but also shevved a proofe of it in the gentle vvemens cloister, there vvhere he caused the gentlevvemen of that cloister to be stript starke naked, that the base soul<g ref="char:EOLhyphen"/>diers committed all manner of vvill fulnesse vvith them. This cursed, and vnheard of Martiall child of perdition is HANS GOTZE, vvho thorovv many cunning tricks in a short time bereft this Tovvne of all provisions, &amp; meanes, That at length the vvhole summe of the ordinary contribu<g ref="char:EOLhyphen"/>tion money amounted to aboue 147000. Rix dallers, And though this money vvas brought vp vvith much adoe, &amp; that there remained but 3000. Rix dallers of it vnpayd: yet this GOTZE pretented against al right and equity 18000 Rix dallers more, vvhich vvas impossible for them to paye (neyther durst they speake of vnreasonnablesse to these bra<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en faces, for feare of displeasing them) yet this impious GOTSE the 3<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. of Iuly sent the Li<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enant Colonell VVINSTEN, vvith three troopes of Horse, and
+<pb facs="tcp:176334:4"/> some foote to plunder the Tovvne, and carried the chiefest Burgers prisoners to Gratz into the Armie Novv let euerie Christian heart Iudge, vvhether this GOTSENS tyran<g ref="char:EOLhyphen"/>nie vvas commanded or can be approued of by his Imperial Maiestie, or vvhether any such presidents vvere euer found in the Christian vvorld, that an obedient Tovvne, hauing de<g ref="char:EOLhyphen"/>serued vvell of the Emperours Armie, should be so cruelly vsed. And albeit those of Pasevvalk, in the time that the Kings Maiestie of Svveathland, had taken in many places in Pomer<g ref="char:EOLhyphen"/>land, and made himselfe master of Stetine: yet held vvith the Imperial Armie, &amp; beyond their abilities gaue them con<g ref="char:EOLhyphen"/>tribution vncessantly, euen as they serued innocent Pen<g ref="char:EOLhyphen"/>kum, vvhere neuer any Svvethen souldiers laye, so likevvise Pasevvalk must be serued vvith the very same sauce.</p>
+            <p>Assoone as these three afore sayd Companies came in the 31. of <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uly, they apprehended at the first the chiefest of the Tovvne, set them vpon vvaggons, and carried them to Gartz, among vvhome there vvas a Burgomaster, and a ludge both vvell stricken in yeeres, diuers Councellours, and an Appo<g ref="char:EOLhyphen"/>the cary to the number of 18. persons, before they departed from their vviues and children vvith bitter teares, and cryes they began to plunder, so that they pilliged the Tovvne of as much of there chiefest goods, as the souldiers could vvell carry avvaye. VVhat did these good Pasevvalkians novve, they be sought them to beare vvith them, but they did as the vvicked seruant in the Gospell, vvho dealt so vnmercifully vvith his fellovv seruant to make him pay the 100 pence, tooke him by the throate, and cast him into prison, and spake therefore vnto them and sayd haue patience vvith vs &amp; vvee vvill paye you all, sent likevvise out of their pouertie Butter. corne, Mer<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aile, Obligations, bills and p<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>edges vnto the Army, that they might thereby moue the stony and hard hearts of these in humaine vvretches, but they vvere then Deafe, dumme,
+<pb facs="tcp:176334:5"/> and blind, as a right GOTZE (that is, like an Idoll block) vvhich savve not, vvhat they brought, heard not that for vvhich they intreated, and gaue noe ansvvere to their cryes and complaints▪ In the meane vvhile, the poore prisonners laye vnder the Heauens Canopy fe<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tered and chayn'd toge<g ref="char:EOLhyphen"/>ther like slaues, and kept at hard meate, scarcly getting a draft of cold vvater, and a bit of brovvne bread, to satisfie their thirst and hunger, and if their vviues and friends sent them any victualls, the souldiers made boo<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of it, lying all this vvhile in the vvinde &amp; raigne, vvorse then dogs, making a common <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>akes round about them, to annoy them vvith a filthy sti<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cke, yea at the commaund of this GOTZEN, they vvere kept three dayes, vvithout bread and vvater, so that if the Lord had not sustained them, they had bin hunger starved, and lost the strength of their bodies.</p>
+            <p>In the meane time, the inhabitants of the Tovvne vvere pittifully handled, they droue avvaye al their caule, as horses, Oxen, Covves, and sheepe, the land laye vvast, noe man durst looke out of the gates, but some mischiefe vvas done vnto him. They robt the very spit<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e nouses vvithout the Tovvne, beate the poore men in them, takeing their provisions, and victualls from them, that they vvere ready to famish. There vvere some Burgers, vvhich meant to laye vp a litle corne for themse<gap reason="illegible" resp="#pdcc" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es, to relieue their necessi<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies, and to helpe to make money to paye their Contribution, on the second of September carrying it home, the Emperours Horse men fe<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l vpon them and tooke it from them, vnder the pretence, that they intended to carry it to the Ennemie, and offred to se<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the lighter a fire in vvhich it laye, and beginning to burn vvith much intreated they quencht it. But he that ovve<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Co<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne they tooke him prisonner, &amp; beate him fearefully, and bringing him to the port, vvold haue had a hundred Ri<g ref="char:EOLhyphen"/>da<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lers of him for his ransome, his vvife seing that her hus<g ref="char:EOLhyphen"/>band
+<pb facs="tcp:176334:5"/> vvas thus mis vsed, out of feare promised them fortie, vvhich vvas more then shee vvas able to paye, the souldiers lying in her House, till vvith much difficultly shee got vp that money. But vvhat? hauing spoken of the drops, I must novv speake of the shovvers. The next daye follovving these 20. horse men, being yet in the Tovvn, towards euening nevvs came, that the Svveathish Horse men shevved themselues before the ports, the tributarie Horse men got them gone as fast as they could, and tvvo Svveathish companies being 140. stronge came into the Tovvne. They in the absence of the Burgomaster, Magistrates and chiefest men, found the ports open, and entred, the Tovvne vvithout any resistance, vvho sent them thether is not knovvne, some imagine they vvere gone out of Ockermonde, vvithout the knovvledge of the King. Hovvsoeuer it vvas, on the 4. of September, the Burgers vvhich vvere remayning, vvere requested by the tvvo Svvea<g ref="char:EOLhyphen"/>thish Captaines, that vvith them they vvold helpe to make vp the VVals of the Tovvne, vvhere vpon they all laboured so diligently, that in the space of three dayes, they performed a great vvorke, but vvere to fevve souldiers, to man so great a circuit of ground vvithin the Tovvne. A Gentleman cal<g ref="char:EOLhyphen"/>led Linsteed, vvhose inheritance lay at Bellin, a mile distant from Pasevvalk, bearing a hatred, and spite to our Tovvne, revealed this to the Imperialists, and Councelled them to take in the Tovvne. The 7. of September then, vvord vvas brought, that the Ennemie vvas come before the Tovvne, &amp; droue the Cattle avvaye, some 30. of the Svveathish Dragons sallyed out of the Tovvne, and began to schirmish vvith the Emperours Horsemen, but a great number of them comming to charge them, droue them into the Tovvn, and follovving the souldiers, and Burgers hotely, entred the por<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and beset the vvalls, and after them came a matter of 3000 men, vvhich encompassed the Tovvne, and playd into it vvith their ordi<g ref="char:EOLhyphen"/>nance
+<pb facs="tcp:176334:6"/> and at last by the Vcker side, vvhere there vvas noe guard entred the Tovvne, and stole a long to the Prents-Lauvvish port, and from thence came to the Stetine port, and got in by making a breach vnder the vvall. The Sweathish souldiers defended themselues so brauely, that the Imperial<g ref="char:EOLhyphen"/>lists vvere faine to acknowledge, they had met vvith soul<g ref="char:EOLhyphen"/>diers, but having noe ordinance mounted, and the eleuen brasse peeces, vvhich vvere in our Towne, which should haue bin sent to the Coronell Gotzen vpon an account, being not in areadinesse to make any defence, and hauing but a fewe souldiers and Burgers, not able to man, and make good the large circuit of the VVals of the Towne, were driuen to re<g ref="char:EOLhyphen"/>teate vnto the lagoish port, at length being forct, and ouer<g ref="char:EOLhyphen"/>masterd, this woe and miserie then began not onely vpon those, vvho brauely defended themselues by armes, in shoo<g ref="char:EOLhyphen"/>ting them dead, slashing, and strangling them, but also among those vvhich vvere vnarmed, and vvhosoeuer met them in this first fury, were strooke downe and masacred. Many to escape ran into the Morras, the hop-yards, the Corne, and got ouer the Vcker, vvere fetcht out. The men were lamentably butcher'd, &amp; the vvemen kept for filthinesse. The Sweathish Horsemen turning faces about, diuerse times gaue fire. &amp; shot some of them dead, and so escaped from them, leaving one of their Captaines behind them, and an other of their Captaines fell with his Horse betvveene the planckes of the broken bridge, but notvvithstanding came of vvell. After this they powred out there foming vvrath vpon the rest of the poore Burgers, vvhome they found in the Houses, they nipt, and pincht them vvith pincers, &amp; Thumb-scrues, and tormented them vvith other inventions to make them confesse if they knewe of any thing that vvas hide, if they got it out of them, yet it vvould not serue their turnes, because others comming
+<pb facs="tcp:176334:6"/> in vsed the like extremities by blovves, and strockes, If they did confesse nothing, it cost them their dearest liues, for they cryd out Giue vs money or bloode, hovvsoeuer vvhether they gaue or not, yet they must dye the death, or be so vvoun<g ref="char:EOLhyphen"/>ded, that they vvill feele it as longe as they liue.</p>
+            <p>The Captaines, and Ensignes into vvhat House soeuer they came, if they had money they promissed them a safe<g ref="char:EOLhyphen"/>guard. If any man had a man or a mayde servant, a sonne or a daughter, if they had bin shut vp into Nine Castles, vpon such faire vvords, and comfortable promisses as they gaue them, they vvould haue brought them out, but vvhen they had got all out of them that they could, then the safe<g ref="char:EOLhyphen"/>gards vvere forgotten, there came in not onely seuen, but ten vvorser vncleane spirits, vvhich broake vp all in peeces, left not a pot, not a pan, not a kettle, not a shirt, not a smock, not a feather vn sought for puld of their shoos, and stockings, pluckt of the vve mens quoifs, and kerchiefs, Tore the Coates from their backes. If they stept ouer the Threshold, they savve a vvoefull spectacle of some one or an other of their neighbours, and acquaintance lye spraw<g ref="char:EOLhyphen"/>ling before there doores, vvounded, or dead, and if they cast but a cloake to couer them, it vvas snatch from them, if they spake but a comfortable vvord vnto them, they serued them in the like manner: yea, though he vvere a Preacher, which came to intreate them, and to denounce the Iudgements of God against them, beseeching them to vse them as Chri<g ref="char:EOLhyphen"/>stians, they geerd at him, scoft him, and he must feele of the edge of the svvord, and heare these execrable vvords: VVhat should vvee be Christians? VVce are Divills incarnate, and thy Deuill likewise. Yea they puld out a preacher by head, and shoulders out of his bed, bound him hand and foot, tor<g ref="char:EOLhyphen"/>menting him to make him confesse, vvhere hts money laye,
+<pb facs="tcp:176334:7"/> If he told them vvhere it vvas, &amp; gaue them all he had, others vsed him in the same kind, and vvhen the first vvere gone, to extort more out of him, at last vvould haue burnt him. Thus much concerning murthering and strangling. Alas this is not yet all, for after this hapned tvvo greater miseries, which befel vs, the ravishing of vvemen, &amp; fire. Touching this filthy ravishment. I neuer read the like in any Greeke, or Romish Historie, or euer heard the like abhominations of such peo<g ref="char:EOLhyphen"/>ple, though they vvere meere Heathens, in committing such foule facts, by forcing, and defyling all marryed vvemen, maydes, and girles of eight or ten yeers old, vvithout making any differēce of them. That which you related to me of Pen<g ref="char:EOLhyphen"/>kum, vvas the first that euer I heard of amonge Christians. That in an obedient tovvn, they should ravish vvemen pub<g ref="char:EOLhyphen"/>lickly, in the vevve of the sunne, in Church-gards, streets, and Gardens, vvhich makes me tren<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble to thinke, that the Deuill should be so povvreful, in those, vvhich are called Christians, vvho I thinke striued to be vvorser, and baser then the Deuill himself, vvhich cannot doe nothing but sinne, They might haue left these in humaine sinns vncommitted, but vvould no<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>But vvhen they had got into the Tovvne, and plundred it, then they began the horriblest fact, vvhich euer the sunne beheld, vvas there an honest vvoe man, vvhich vvith teares, &amp; vvringing hands besought them for gods sake, not to staine her honestie, &amp; g<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ue them all that euer shee had to a pe<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny? yet shee must suffer her selfe by euery one, like doggs to be openly &amp; pittifully abused till she had not so much strength as to stirr a foote. VVhen I remember this my countenance vvaxeth pale, and vvane in discribing <gap reason="illegible" resp="#pdcc" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is abhomination, yea the very sunne it selfe blushes at it, and is loath to giue light to such more then develi<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h filthynesse, but these vvhore Stalions, forgetting God &amp; all honesty, did vvithout any care
+<pb facs="tcp:176334:7"/> or feare in euery place seeke out the vvemen, yea hunted the vvemen in childbed out of their bedds to abuse them, stript the vvemen vvith child naked to defyle them, tooke the suc<g ref="char:EOLhyphen"/>king babes from their mothers Duggs, &amp; dasht them against the Earth: They spared not so much as the old vvemen, of great age, yea the litle Girles to satiate their satyrical lust, and some vvhich pleased them better then others, they either set them vpon vvagons, or tyde them to their sadell bovve, to make them trot after them. This ravishment yesterday being the 11. of December vvas not ended, but they tooke vp with them to the gallowes-hill three honest women, and some girles of nine or ten yeeres old, vvhere they spoyled them so, that they can not goe.</p>
+            <p>O Lord arise at lenght, and reward them according to their wickednesse, stretch out thy mighty arme, and smite those in thy wrath, which haue thus destroyed thy people in their Innocencie, for vvhat could those of Pasewalke doe, more for the Imperialists, then they haue done? Their tyrannie hath left them nothing but their bare liues. VVhen the Swea<g ref="char:EOLhyphen"/>thens tooke in their Towne, could a companie of pooredes armed men helpe it? Especially, seing the Imperialists had be<g ref="char:EOLhyphen"/>fore abandonned and forsaken al <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Tovvnes, and sea ports, and opened the gate and doore to the Swethens; &amp; left them nothing but an emptie nest, must they therefore be called Rebells? But vvhat should I speake of Iustice, to those vvhich contemne and speake euill of iustice, vvhich keepe noe faith, vvhich loue noe sinceritie, vvhich regard noe righteousnesse, vvhich care not for godlinesse, but liue as men vvithout a Conscience, as if there vvere noe God, noe Heauen, noe Hell, noe Deuill. I ha<gap reason="illegible" resp="#pdcc" extent="2 letters">
+                  <desc>••</desc>
+               </gap>en to shut vp this dolefull Tragedie, and vvill briefely relate in vvhat manner they burnt this Tovvne of Pasevvalke to asches.</p>
+            <p>In the end, vvhen there vvas nothing more to be found in
+<pb facs="tcp:176334:8"/> the Houses, then quickly the fire began to breake out in diuerse places of the Tovvne. VVhen it increased, and vvith violence consumed all that stood in the vvaye, then heard vvee often times these Neronian vvords: See hovve brauely Pasevvalke burnes? VVhat a fine fire it makes? I neuer sawe such a stately fire in my life? A great part of the Tovvne vpon the seuenth of September, vvas burnt vvith many barnes full of corne. The next daye these nor among the Priests (vvho had bin miserably entreated the dayes before, and vvas preserued as an Ebedmeleck by Captaine Smalen<g ref="char:EOLhyphen"/>berke, (vvhome I here make mention of vvith honour a mong this vvicked generation of souldiers, and vvhose vvounds, vvere drest by the surgean of the feild) notvvith<g ref="char:EOLhyphen"/>standing he, and his vvife vvith diuerse Burgers of his ac<g ref="char:EOLhyphen"/>quaintance sicke Preachers, Students, Schollers, and the Organists. This senor I say together vvith these desired Captaine Smallenberke, that they might haue audience by the Coronell Gotzen, to crave, and intreate him, that the Maries Church, and the Houses vvhich vvere then standing might be spared, and kept from fyring: but he vvould not harken vnto them, commaunding that fire should be put vnto them incontinent, rid also into the Tovvne himselfe, and vvhere it vvas not a fire, commaunded to set it on fire, yea some saye he set it on fire himselfe? Moreouer it is repor<g ref="char:EOLhyphen"/>ted, hovve that the Officers, Especially, the Lieutenant Coronell VVinsten to keepe it from fyring, interceeded, and requested this Coronell Goizen, not to doe it, offring him many thousand Rix dallers, to keepe the Tovvne from burning: but here turned them this Heroycall an<g ref="char:EOLhyphen"/>svvere, That he had svvorne too deepely, and therefore all must be burnt, and not a vvhite spared. After this Saint Maries church vvas set a fire, a very sumptuous building vvith many costly Ornaments in it, vvhen they had plundered
+<pb facs="tcp:176334:8"/> it of all the Church Ornaments, as silver, and gold, and burnt all the carued vvorkes in it, that a vvhit of timber vvorke vvas not left. A braue chime of great Bells melted, vvhereof the like vvas not in all Pomerland, &amp; the steeple falling downe, vvhich vvas a lamentable spectacle, vvhile the souldiers in a braverie vvalked vp and dovvne as it vvere in procession, or as if they had bin in a masckarado, vvith the Priests Cirplises, coops, and Capps. A souldier being asked by a Captaine, vvhere he had got that habit, ansvvered hee had taken it from the Papes, here vpon the Captaine replyed, that he should also haue slayne the Pape, or the Preacher himselfe.</p>
+            <p>In this furie, and cruell persecution, there vyere not onely many children burnt to ashes, vvhich their mothers had left lying in their Cradles, and beddes: but also the souldiers, tooke those vvhich vvere shot, and vvounded euen to the death, to burne and torment them. And such as offred to carrye, or convey any thing out of their Houses, those they cast into the fire and burnt them. A Church Provisour being an Alderman (for the citie of Pasevvalke and Stetine had this dignitie, that they onely had a session, and Iudgement seate in Pomerland) vvho vvould haue saued himselfe vvith his crutches, being troubled vvith a Demy-Palsy vvas vvounded to the death, and aftervvard burnt in the House vvhereinto they carryed him. An other Burger, being a baker, vvas runn thorovv his bodie in his ovvne House, and his vvife carrying a child vnder each arme, and runing into a sellar vvas burnt vvith fire. And in an other place, nine, or ten boyes, and Girles, running into a sellar to saue themselues, these Hell-hounds perceaving it, layd stravve ouer the sellar, set it on fire, and so these innocent children vvere pittifully burnt to death. And vvho can expresse all this our miscrie? seing the rage, and furie of our ennemies
+<pb facs="tcp:176334:9"/> For none of those vvhich vvere slayne, vvounded, sabled, shot, or halfe burn'd, could haue any buriall, but must lie in the streets, to be eaten, and torne in peeces by hoggs, and doggs, vvhich came running into that vvast, and ruyned Towne. Nee<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e vnto the Prints-lauwish port a fewe Houses remaines yet standing; In the smiths streete, as yee goe down to Saint Niclas (though the Church is yet standing, vvhich is dayely threatned to be burnt) there yet remaines but tvvo Houses (in reigestae monumentum, as a memoriall of their wicked deeds) that whosoeuer beholds them, and passes that waye, can saye noe other wise, then Cacodoemona quendam pelle Go<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ziana tectum, sua crudelitate &amp; immanitate, cum Lanienam fecesse, quam aeterna sin maledictione sir<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>olim luiturus; That is: The euill spirit couuered vvith Gotzens hyde, did accomplish this burcherie by his crueltie, &amp; fierce<g ref="char:EOLhyphen"/>nesse, vvhich at lengh<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he shall paye for, by an everlasting curse layde vpon him.</p>
+            <p>I protest here seriously notwithstanding, that nothing is here related, which tends to doe any iniury, or preiudice to the posteritie of the worthy and noble familly of the Gotzians, or that is meant to the least stayne of their noble reputation, for as noe body is so sound and pure, but that <gap reason="illegible" resp="#pdcc" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hath sometimes it owne vicer, and excrement, so likewise that nob<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, and sounde bodie is not intended hereby, but onely that one putrifyng fore be<g ref="char:EOLhyphen"/>fore named is aymed at herein.</p>
+            <p>Herewith I conclude, and recommend all forowfull, hearts, &amp; comfort<g ref="char:EOLhyphen"/>lesse soules to the father of Mercies, that he will protect his Church, and stoppe the Deuills rage, and al his followers, and reward them with Eternall flames, according to their deserts. Written at Backsholt, neere vnto Loc<g ref="char:EOLhyphen"/>kenitz, where the Imperiall <gap reason="illegible" resp="#pdcc" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oke a poore man, vvhom they brought with them from <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>asewalke, and beare, him shrodly, so that they brake his arme in peeces, &amp; aftervvard vvould haue hang'd him, vpon t<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve birckin braun<g ref="char:EOLhyphen"/>ches hanging downe, but with many petitions, and much intreatie, they pardonned him vvith an vnhristian mercy, for they being at dinner in steed of a peece of bread and butter, sent him for a speciall, and a dainty dishe, which they compeld him to eate, to wit, a peece of bread steept in fresh pisse, and spread ouer thicke with mans dung. Anno 1630. the 12. of September.</p>
+            <closer>
+               <signed>CHRISTIANVS LOPERVS ex Civis PASWALCENSIS.</signed>
+            </closer>
+            <pb facs="tcp:176334:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
